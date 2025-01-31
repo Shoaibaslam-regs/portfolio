@@ -604,8 +604,7 @@ span{
     position: absolute;
     transform: translate(-50%, -50%);
     }
-  
-
+    
 .animie span:nth-child(1) {
     color: transparent;
     -webkit-text-stroke: 2px var(--main-color);
